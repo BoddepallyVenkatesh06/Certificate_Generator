@@ -8,6 +8,8 @@ Recommended to use this website on your Laptop/PC for better results.
 
 https://github.com/shubho0908/Certificate-Generator/assets/81776711/8474af06-8e64-477f-84ad-e48135f313ad
 
+https://github.com/BoddepallyVenkatesh06/Certificate_Generator/blob/main/img/BG.mp4
+
 
 
 
