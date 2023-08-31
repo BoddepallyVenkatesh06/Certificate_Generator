@@ -6,7 +6,7 @@ Recommended to use this website on your Laptop/PC for better results.
 
 **Demo Video**: 
 
-https://github.com/BoddepallyVenkatesh06/Certificate_Generator/
+https://github.com/shubho0908/Certificate-Generator/assets/81776711/8474af06-8e64-477f-84ad-e48135f313ad
 
 
 
@@ -14,9 +14,9 @@ https://github.com/BoddepallyVenkatesh06/Certificate_Generator/
 
 # Udemy Generated Certificate Sample
 
-![sample1]()
+![sample1](https://github.com/BoddepallyVenkatesh06/Certificate_Generator/blob/main/Udemy-certificate.png)
 
 
 # LinkedIn Learning Generated Certificate Sample
 
-![sample2]()
+![sample2](https://github.com/BoddepallyVenkatesh06/Certificate_Generator/blob/main/LinkedIn-certificate.png)
